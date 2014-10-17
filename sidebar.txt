@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dis:home|Door43 (dis)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dis|d43-dis repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dis/archive/master.zip|d43-dis.zip]]
+
+**Recent Changes**
+{{changes>ns = dis}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dis|Ethnologue data]]
+
